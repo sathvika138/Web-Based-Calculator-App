@@ -7,5 +7,7 @@ A Simple Web based calculator which can perform arithmetic operations like addit
 Testing if the app is clear to release and performing each test case to see if any issues occuring and comparing the expected result and actual result to pass the test cases and release the app.
 
 
+**Test Cases**
+
 
 
