@@ -34,3 +34,7 @@ Documenting the operations performed and comparing the actual result and expecte
 
 Check all the defects in the app after performing the operations. 
 
+**TEST EVALUATION**
+
+Defect Analysis and Decision Making: Checking the severity of the errors and review them before releasing the app. 
+
